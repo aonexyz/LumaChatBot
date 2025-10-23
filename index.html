@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LumaChat – Gemini AI</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="chat-container">
+    <h1>💬 LumaChat</h1>
+    <div id="chat-box" class="chat-box"></div>
+
+    <div class="input-area">
+      <input id="user-input" type="text" placeholder="Type your message..." />
+      <button id="send-btn">Send</button>
+    </div>
+  </div>
+
+  <footer>
+    <p>Powered by Google Gemini 1.5 API</p>
+  </footer>
+
+  <script>
+    const GEMINI_API_KEY = "YOUR_GEMINI_API_KEY_HERE"; // replace or use from .env if using backend
+  </script>
+  <script src="script.js"></script>
+</body>
+</html>
