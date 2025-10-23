@@ -29,10 +29,6 @@ It lets users send natural prompts and get AI-generated responses instantly — 
 
 ---
 
-## 🏷️ GitHub Topics
-
-### chatbot gemini-api javascript web-app ai-chat google-gemini html css interactive-ui lightweight
-
 ## Author
 
 - **A 1** – [GitHub: aonexyz](https://github.com/aonexyzl)
